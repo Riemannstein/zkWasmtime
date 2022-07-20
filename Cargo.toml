@@ -1,5 +1,5 @@
 [package]
-name = "zkwasmtime"
+name = "zk-wasmtime"
 license = "MIT AND Apache-2.0"
 keywords = ["zk", "zkSNARK", "wasm"]
 repository = "https://github.com/Riemannstein/zkWasmtime"
