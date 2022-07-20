@@ -1,0 +1,12 @@
+[package]
+name = "zkwasmtime"
+license = "MIT AND Apache-2.0"
+keywords = ["zk", "zkSNARK", "wasm"]
+repository = "https://github.com/Riemannstein/zkWasmtime"
+homepage = "https://github.com/Riemannstein/zkWasmtime"
+description = "A zk-friendly virtual machine for WebAssembly"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+wasmtime = "0"
